@@ -1,5 +1,6 @@
 # Diy-Automated-irrigation-system
 In this project I created an simple,but very useful irrigation system,with two big modes,manual using an IR remote,an automatic,based on more sensors.
+More details about project are presented in documentation.
 
 
 #Functionality of project:
@@ -10,7 +11,7 @@ In this project I created an simple,but very useful irrigation system,with two b
 #Sturcture of project
  * circut: 
  * code: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/b3fc879b8d8c02f8b95ad84541c4a1875c96adb7/sistemIrigatie.ino)
- * full docs: 
+ * full docs: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/aaead4459111a0d1ee3f34838aa2af2bae4cac33/Diy_Automated_irrigation_system.pdf)
 
 #Using project 
   *Connect elements of project like my circuit diagram
