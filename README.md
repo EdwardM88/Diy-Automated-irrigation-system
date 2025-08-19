@@ -8,9 +8,9 @@ In this project I created an simple,but very useful irrigation system,with two b
   * simulation in real life;
 
 #Sturcture of project
-  circut: 
-  code: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/b3fc879b8d8c02f8b95ad84541c4a1875c96adb7/sistemIrigatie.ino)
-  full docs: 
+ * circut: 
+ * code: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/b3fc879b8d8c02f8b95ad84541c4a1875c96adb7/sistemIrigatie.ino)
+ * full docs: 
 
 #Using project 
   *Connect elements of project like my circuit diagram
