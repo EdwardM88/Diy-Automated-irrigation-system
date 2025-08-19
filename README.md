@@ -14,9 +14,10 @@ More details about project are presented in documentation.
  * full docs: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/aaead4459111a0d1ee3f34838aa2af2bae4cac33/Diy_Automated_irrigation_system.pdf)
 
 #Using project 
-  *Connect elements of project like my circuit diagram
-  *Read carefully the documentation,i change some thinks
-  *Uploade the code
+  * Connect elements of project like my circuit diagram
+  * Read carefully the documentation,i change some thinks
+  * Uploade the code
+  * configure your command for your remote.
 
 #Simulation
 
