@@ -20,7 +20,7 @@ More details about project are presented in documentation.
   * configure your command for your remote.
 
 #More
- * More about this project: 
+ * More about this project: https://drive.google.com/file/d/1cXevfOz6xo-fJsOauqDXjmrpcys52w_V/view?usp=sharing
  * Only manual part of this project:
  * Manual + automatic part of project: 
  
