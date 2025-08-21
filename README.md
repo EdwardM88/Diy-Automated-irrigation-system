@@ -21,7 +21,7 @@ More details about project are presented in documentation.
 
 #More
  * More about this project: https://drive.google.com/file/d/1cXevfOz6xo-fJsOauqDXjmrpcys52w_V/view?usp=sharing
- * Only manual part of this project:
+ * Only manual part of this project: https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/e8aca756d85bd94462bf81697e85fd687a903267/IMG_5578.HEIC
  * Manual + automatic part of project: https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/320e5acc6c626d9b059de0b64971d77fd7b5637d/IMG_5587.HEIC
  
 
