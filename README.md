@@ -21,6 +21,7 @@ More details about project are presented in documentation.
 
 #More
  *More about this project: ();
-    *
-    *
+ * Only manual part of this project:
+ * Manual + automatic part of project: 
+ 
 
