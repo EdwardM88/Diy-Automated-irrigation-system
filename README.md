@@ -19,5 +19,8 @@ More details about project are presented in documentation.
   * Uploade the code
   * configure your command for your remote.
 
-#Simulation
+#More
+ *More about this project: ();
+    *
+    *
 
