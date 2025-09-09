@@ -11,7 +11,7 @@ More details about project are presented in documentation.
 #Sturcture of project
  * circut: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/fc14ae153f63b7a29a80e7166ccf49b88c44a58f/circuit.png)
  * code: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/b3fc879b8d8c02f8b95ad84541c4a1875c96adb7/sistemIrigatie.ino)
- * full docs: ()
+ * full docs: (https://github.com/EdwardM88/Diy-Automated-irrigation-system/blob/4b680a92d243dcb404db39641e9c953169f3a20e/DIY_Automatic_irrigation_System.pdf)
 
 #Using project 
   * Connect elements of project like my circuit diagram
