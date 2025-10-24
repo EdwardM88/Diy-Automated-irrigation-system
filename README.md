@@ -1,6 +1,5 @@
 # Diy-Automated-irrigation-system
-In this project I created an simple,but very useful irrigation system,with two big modes,manual using an IR remote,an automatic,based on more sensors.
-More details about project are presented in documentation.
+An intelligent irrigation system offering both manual control via IR remote and fully automated operation based on sensor data. This project demonstrates practical IoT applications for efficient water management in gardening and agriculture.
 
 # Key Features
   * Dual Operation Modes: Manual control using IR remote & fully automatic sensor-based irrigation
