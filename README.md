@@ -8,7 +8,7 @@ More details about project are presented in documentation.
   * Real-life Simulation: Tested in practical scenarios
   * User-friendly Interface: Simple remote control configuration
 
-#Functionality of project:
+# Functionality of project:
   * Irigation modes controled by a remote controler;
   * Automatic irrigation modes based on results from sensors;
   * simulation in real life;
