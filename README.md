@@ -19,7 +19,7 @@ An intelligent irrigation system offering both manual control via IR remote and 
 
 # Installation & Usage
   * Connect elements of project like my circuit diagram
-  * Read carefully the documentation,i change some thinks
+  * Read carefully the documentation,I changed some thinks
   * Uploade the code
   * configure your command for your remote.
 
